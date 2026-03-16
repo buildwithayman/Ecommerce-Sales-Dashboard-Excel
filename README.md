@@ -1,5 +1,7 @@
 # Ecommerce-Sales-Dashboard-Excel
 
+Live Project link:https://www.linkedin.com/posts/mohdaymankhan_dataanalytics-exceldashboard-businessintelligence-activity-7434817403613679616-W8eq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lchMB1GhXggGRvMK9EYtTLmv7N8IqeCI
+
 Sales Performance Dashboard – Excel Data Analytics Project
 
 This project presents an interactive Sales Performance Dashboard built in Microsoft Excel to analyze sales performance, customer behavior, and product trends.
